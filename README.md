@@ -8,10 +8,10 @@ ___
 ___
 
 ### Technical Skills
--	Python                                    - C #                         
--	Database                                  - Data Structure
--	Data Visualization                        - Algorithm Analysis and design
--	Data Analysis                             - System Analysis and design
+-	Python.                                   - C #                         
+-	Database.                                  - Data Structure
+-	Data Visualization.                        - Algorithm Analysis and design
+-	Data Analysis.                             - System Analysis and design
 -	Data Preprocessing                        - Deployment
 -	Feature Engineering                       - Git and Github
 -	Machine Learning                          - Agile Development
@@ -20,11 +20,7 @@ ___
 ___
 
 [![LinkedIn](icons/icons8-linkedin-48.png)](https://www.linkedin.com/in/shorouk-elsayed-eldeep-8373881b8/)
-
-
 [![Facebook](icons/icons8-facebook-48.png)](https://www.facebook.com/ahmed.eldeep.35513?mibextid=LQQJ4d)
-
-
 [![twitter](icons/icons8-twitter-48.png)](https://twitter.com/Shorouk_balena)
 
 
