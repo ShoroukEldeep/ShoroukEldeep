@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi, I’m Shorouk Eldeep 👋
 
-<!--
-**ShoroukEldeep/ShoroukEldeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+___
 
-Here are some ideas to get you started:
+### About Me
+> As a data scientist, I have a strong foundation in statistical analysis, data mining, and machine learning techniques. I am skilled in programming languages such as Python and R and have experience working with large and complex data sets. My expertise includes collecting and cleaning data, designing and implementing data models, and creating visualizations and reports to communicate insights to stakeholders. I have a passion for data-driven problem solving and thrive in a collaborative, fast-paced environment. I enjoy working with cross-functional teams and am committed to continuous learning to stay up-to-date with the latest advancements in the field. I believe that my analytical skills, attention to detail, and ability to think critically make me a valuable asset to any organization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+___
+
+### Technical Skills
+-	Python                                    - C #                         
+-	Database                                  - Data Structure
+-	Data Visualization                        - Algorithm Analysis and design
+-	Data Analysis                             - System Analysis and design
+-	Data Preprocessing                        - Deployment
+-	Feature Engineering                       - Git and Github
+-	Machine Learning                          - Agile Development
+-	Problem Solving                           - Clean Code
+
+___
+
+[![twitter](icons/twitter.png)](https://twitter.com/Shorouk_balena)
+
