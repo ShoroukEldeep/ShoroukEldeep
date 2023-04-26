@@ -19,13 +19,13 @@ ___
 
 ___
 
-[![LinkedIn](Icons/icons8-linkedin-48.png)](https://www.linkedin.com/in/shorouk-elsayed-eldeep-8373881b8/)
+[![LinkedIn](icons/icons8-linkedin-48.png)](https://www.linkedin.com/in/shorouk-elsayed-eldeep-8373881b8/)
 
 
-[![Facebook](Icons/icons8-facebook-48.png)](https://www.facebook.com/ahmed.eldeep.35513?mibextid=LQQJ4d)
+[![Facebook](icons/icons8-facebook-48.png)](https://www.facebook.com/ahmed.eldeep.35513?mibextid=LQQJ4d)
 
 
-[![twitter](Icons/icons8-twitter-48.png)](https://twitter.com/Shorouk_balena)
+[![twitter](icons/icons8-twitter-48.png)](https://twitter.com/Shorouk_balena)
 
 
 
